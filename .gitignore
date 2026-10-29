@@ -1,0 +1,11 @@
+WiringPi/
+frontend_server
+server
+sensorsI2C/
+httplib.h
+sensor_data.db
+sensor_data.db-journal
+embedded/secrets.h
+build/
+frontend/node_modules/
+frontend/dist/
